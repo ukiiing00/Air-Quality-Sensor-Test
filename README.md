@@ -3,7 +3,7 @@
 This is the Sensirion SEN5X library for Arduino using the
 modules I2C interface.
 
- ![SEN55](./DOC/SEN55.png)
+ ![SEN55](./DOC/SEN55.jpg)
 
 ## Supported sensors
 
@@ -69,7 +69,7 @@ Note: Installation via the Arduino Library Manager is coming soon.
 
 # VOC index
 
-< ![VOCindex](./DOC/VOCindex.png)
+< ![VOCindex](./DOC/VOCindex.jpg)
 
 ( 위의 그림은 VOC 지수를 통한 공기청정기 동작의 예 )
 
@@ -80,8 +80,8 @@ VOC index가 100미만이면 평균에 비해 VOC가 적다는 의미임
 (예: 열린 창문의 신선한 공기, 공기청정기 사용 등)
 -> 모든 실내 환경 조건에 대해 오프셋이 100으로 매핑되어 있음
 
- ![TrueTVOC](./DOC/TrueTVOC.png)
- ![eTVOC](./DOC/eTVOC.png)
+ ![TrueTVOC](./DOC/TrueTVOC.jpg)
+ ![eTVOC](./DOC/eTVOC.jpg)
 
 
 독일 연방 환경청 또는 WHO에서 발표한 건강 관련 실내 공기질 수준은 tVOC를 참조함
