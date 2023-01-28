@@ -43,7 +43,6 @@ Note: Installation via the Arduino Library Manager is coming soon.
    | SCL     | SCL         | Yellow        |
    | SEL     | GND for I2C | Blue          |
 
-   <center><img src="images/SEN5X_pinout.png" width="300px"></center>
 
    | *Pin* | *Name* | *Description*                   | *Comments*                       |
    | ----- | ------ | ------------------------------- | -------------------------------- |
