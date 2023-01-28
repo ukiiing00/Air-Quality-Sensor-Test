@@ -1,4 +1,8 @@
+# Sensirion I2C SEN55 Test
+
 # Sensirion I2C SEN5X Arduino Library
+
+https://github.com/Sensirion/arduino-i2c-sen5x
 
 This is the Sensirion SEN5X library for Arduino using the
 modules I2C interface.
