@@ -1,5 +1,3 @@
-# Sensirion I2C SEN55 Test
-
 # Sensirion I2C SEN5X Arduino Library
 
 https://github.com/Sensirion/arduino-i2c-sen5x
